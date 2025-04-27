@@ -66,14 +66,17 @@ This repository contains all the necessary code and scripts to achieve autonomou
 
 ---
 
+---
+
 ## **Installation Instructions**
 
 1. **Clone the Repository**:
    ```bash
-[   git clone https://github.com/Pranay1004/IRoCU-2025]
-cd IRoCU-2025
+   git clone https://github.com/Pranay1004/IRoCU-2025
+   cd IRoCU-2025
    ```
 
+---
 2. **Install Dependencies**:
    Make sure Python 3.x is installed, then install required libraries:
    ```bash
