@@ -70,8 +70,8 @@ This repository contains all the necessary code and scripts to achieve autonomou
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ANAV-Autonomous-Drone.git
-   cd ANAV-Autonomous-Drone
+[   git clone https://github.com/Pranay1004/IRoCU-2025]
+cd IRoCU-2025
    ```
 
 2. **Install Dependencies**:
