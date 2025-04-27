@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "mission": {
+    "waypoints": [
+      {
+        "action": "TAKEOFF",
+        "params": {},
+        "lat": 18.946874,
+        "lon": 73.1611454,
+        "alt": 0
+      },
+      {
+        "action": "WAYPOINT",
+        "params": {},
+        "lat": 18.946874,
+        "lon": 73.1611454,
+        "alt": 4
+      },
+      {
+        "action": "LAND",
+        "params": {},
+        "lat": 18.946874,
+        "lon": 73.1611454,
+        "alt": 0
+      }
+    ]
+  }
+}
